@@ -1,0 +1,1 @@
+D:\LamFamily\Documents\jupyter-notebook\yolo\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/32.jpg 155,45,170,55,0 178,46,197,57,0 165,63,180,70,1 160,72,186,80,2

@@ -1,0 +1,4 @@
+D:\LamFamily\Documents\jupyter-notebook\yolo\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/16.jpg 38,95,65,108,0 84,95,110,108,0 60,129,87,139,1 55,144,95,157,2
+D:\LamFamily\Documents\jupyter-notebook\yolo\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/33.jpg 136,42,155,57,0 165,57,183,70,0 143,71,161,84,1 130,79,159,97,2
+D:\LamFamily\Documents\jupyter-notebook\yolo\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/41.jpg 65,60,88,73,0 101,60,125,72,0 82,83,106,93,1 79,98,113,112,2
+D:\LamFamily\Documents\jupyter-notebook\yolo\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/7.jpg 40,77,67,94,0 84,56,116,75,0 68,96,103,112,1 75,117,122,137,2

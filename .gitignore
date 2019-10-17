@@ -1,0 +1,15 @@
+# forfiles /s /c "cmd /q /c if @fsize GTR 50000000 echo @relpath" >> .gitignore
+
+VOCtrainval_06-Nov-2007.tar
+yolov3.weights
+logs/000/ep003-loss55.479-val_loss54.028.h5
+logs/000/ep006-loss52.156-val_loss43.539.h5
+logs/000/ep015-loss43.775-val_loss33.369.h5
+logs/000/ep042-loss40.865-val_loss29.685.h5
+logs/000/ep048-loss37.948-val_loss27.653.h5
+logs/000/ep057-loss29.424-val_loss26.835.h5
+logs/000/ep060-loss29.266-val_loss24.421.h5
+logs/000/ep063-loss24.590-val_loss21.920.h5
+logs/000/trained_weights_final.h5
+logs/000/trained_weights_stage_1.h5
+model_data/yolo_weights.h5
